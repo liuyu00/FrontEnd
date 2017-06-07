@@ -1,0 +1,19 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "api": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "mysql": "^2.13.0"
+  },
+  "devDependencies": {
+    "body-parser": "^1.17.2",
+    "cors": "^2.8.3"
+  }
+}
